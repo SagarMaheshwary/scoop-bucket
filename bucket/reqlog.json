@@ -1,13 +1,22 @@
 {
-  "version": "0.9.1-rc1",
-  "description": "Search, trace, and stream logs across files, Docker containers, and remote hosts.",
-  "homepage": "https://github.com/sagarmaheshwary/reqlog",
-  "license": "MIT",
-  "architecture": {
-    "64bit": {
-      "url": "https://github.com/sagarmaheshwary/reqlog/releases/download/v0.9.1-rc1/reqlog_v0.9.1-rc1_windows_amd64.zip",
-      "hash": "c7993acfbc03096ed099a920380709e74961d570913032b0e322f50af8f59b1a"
-    }
-  },
-  "bin": "reqlog.exe"
+    "version": "0.9.1-rc2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/SagarMaheshwary/reqlog/releases/download/v0.9.1-rc2/reqlog_0.9.1-rc2_windows_amd64.zip",
+            "bin": [
+                "reqlog.exe"
+            ],
+            "hash": "2fdea7e9dbe155cbe0fbe1cea0d01f6b6499bd54b5e49defaf1558ad79fdb259"
+        },
+        "arm64": {
+            "url": "https://github.com/SagarMaheshwary/reqlog/releases/download/v0.9.1-rc2/reqlog_0.9.1-rc2_windows_arm64.zip",
+            "bin": [
+                "reqlog.exe"
+            ],
+            "hash": "41358f888a625476d0118fa16aef083d27213b709197a981ecdf0426e5f6d1f6"
+        }
+    },
+    "homepage": "https://github.com/sagarmaheshwary/reqlog",
+    "license": "MIT",
+    "description": "Search, trace, and stream logs across files, Docker containers, and remote hosts"
 }

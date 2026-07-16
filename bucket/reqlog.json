@@ -1,19 +1,19 @@
 {
-    "version": "0.9.1-rc2",
+    "version": "0.10.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/SagarMaheshwary/reqlog/releases/download/v0.9.1-rc2/reqlog_0.9.1-rc2_windows_amd64.zip",
+            "url": "https://github.com/SagarMaheshwary/reqlog/releases/download/v0.10.0/reqlog_0.10.0_windows_amd64.zip",
             "bin": [
                 "reqlog.exe"
             ],
-            "hash": "2fdea7e9dbe155cbe0fbe1cea0d01f6b6499bd54b5e49defaf1558ad79fdb259"
+            "hash": "1852ed1165a11855515b97cd916a4edd898c5a5296bbb3a53d8fbe9dad612029"
         },
         "arm64": {
-            "url": "https://github.com/SagarMaheshwary/reqlog/releases/download/v0.9.1-rc2/reqlog_0.9.1-rc2_windows_arm64.zip",
+            "url": "https://github.com/SagarMaheshwary/reqlog/releases/download/v0.10.0/reqlog_0.10.0_windows_arm64.zip",
             "bin": [
                 "reqlog.exe"
             ],
-            "hash": "41358f888a625476d0118fa16aef083d27213b709197a981ecdf0426e5f6d1f6"
+            "hash": "a6e84b901e59cc492182b9e5233ff3e610254558470e54c230c33fc930875b25"
         }
     },
     "homepage": "https://github.com/sagarmaheshwary/reqlog",
